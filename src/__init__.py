@@ -1,0 +1,1 @@
+"""Document bundle example package."""
